@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558386995 source:e:\proiecte\c++\numere masini\main.c
+	<stdio.h>
+	<stdlib.h>
+
